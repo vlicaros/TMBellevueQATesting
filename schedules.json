@@ -1,8 +1,8 @@
 {
   "week": "May 31 – Jun 6, 2026",
-  "updated": "Sat, May 30, 9:08 PM",
+  "updated": "Sun, May 31, 1:11 PM",
   "cleaners": {
-    "bbfc51bf60a569ab885cae1290fb1242": [
+    "megan": [
       {
         "day": "Mon",
         "dayNum": 1,
@@ -45,7 +45,7 @@
         "price": "356.00",
         "payment": "None",
         "notes": " | <p>Deep clean kitchen and living room if time allows then do rest.</p><p>Busy local DJ and hardly home but wants to come back to a nice clean place monthly</p>",
-        "team": "Megan/ Malien",
+        "team": "Megan/Malien",
         "id": 14112083
       },
       {
@@ -60,7 +60,7 @@
         "price": "200.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/ Malien",
+        "team": "Megan/Malien",
         "id": 14158446
       },
       {
@@ -124,7 +124,7 @@
         "id": 13516157
       }
     ],
-    "e705900fc05d2fe483da8909f261fd7f": [
+    "loreina": [
       {
         "day": "Wed",
         "dayNum": 3,
@@ -186,7 +186,7 @@
         "id": 13566220
       }
     ],
-    "4dc605dead85ac73fa7de9e77571543e": [
+    "malien": [
       {
         "day": "Mon",
         "dayNum": 1,
@@ -195,11 +195,11 @@
         "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
         "phone": "206-639-0646",
         "package": "Premium Weekly",
-        "time": "<b>2026-06-01 09:00AM - 11:30AM PDT</b>",
+        "time": "<b>2026-06-01 09:45AM - 12:15PM PDT</b>",
         "price": "313.60",
         "payment": "None",
         "notes": "",
-        "team": "Nick/ Malien",
+        "team": "Nick/Malien",
         "id": 13523267
       },
       {
@@ -214,7 +214,7 @@
         "price": "217.84",
         "payment": "None",
         "notes": " | <p>Front Entrance&nbsp;<span style=\"background-color: rgb(38, 38, 38); color: rgb(245, 245, 245); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; white-space-collapse: preserve;\">Buzzer code 018</span></p>",
-        "team": "Nick/ Malien",
+        "team": "Nick/Malien",
         "id": 13514289
       },
       {
@@ -229,7 +229,7 @@
         "price": "356.00",
         "payment": "None",
         "notes": " | <p>Deep clean kitchen and living room if time allows then do rest.</p><p>Busy local DJ and hardly home but wants to come back to a nice clean place monthly</p>",
-        "team": "Megan/ Malien",
+        "team": "Megan/Malien",
         "id": 14112083
       },
       {
@@ -244,7 +244,7 @@
         "price": "200.00",
         "payment": "None",
         "notes": "",
-        "team": "Megan/ Malien",
+        "team": "Megan/Malien",
         "id": 14158446
       },
       {
@@ -259,7 +259,7 @@
         "price": "311.50",
         "payment": "None",
         "notes": " | Physical key",
-        "team": "Tish/ Malien",
+        "team": "Tish/Malien",
         "id": 13678157
       },
       {
@@ -274,11 +274,11 @@
         "price": "330.00",
         "payment": "None",
         "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Tish/ Malien",
+        "team": "Tish/Malien",
         "id": 13730409
       }
     ],
-    "6aac2a2c1c3ba6fbfec90ff84eb70be4": [
+    "tish": [
       {
         "day": "Mon",
         "dayNum": 1,
@@ -306,7 +306,7 @@
         "price": "194.00",
         "payment": "None",
         "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
-        "team": "Tish",
+        "team": "Nick/Tish",
         "id": 13823566
       },
       {
@@ -321,7 +321,7 @@
         "price": "311.50",
         "payment": "None",
         "notes": " | Physical key",
-        "team": "Tish/ Malien",
+        "team": "Tish/Malien",
         "id": 13678157
       },
       {
@@ -336,11 +336,11 @@
         "price": "330.00",
         "payment": "None",
         "notes": " | <p><b>Monday Cleanings - PREMIUM -</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms,&nbsp; change bath rugs if necessary according to last date changed - master spot check for mold if so use bestbet cream cleanser</p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; Vacuum carpeted areas/rugs</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; NO bed linen change just make all beds - pull tight duvet and bed sheets.</p><p>•&nbsp; Washing one sink load of dishes</p><p>•&nbsp; Rotate cleaning of vertical surfaces such as baseboards, windows, and doors</p><p>•&nbsp; High dusting for ceiling fans, light fixtures, air vents, and cobwebs</p><p>•&nbsp; spot check guest room/bathroom in renovated part of the garage.</p><p><br></p><p><b>Friday Cleanings:</b></p><p>•&nbsp; Sanitize all kitchen surfaces and appliances</p><p>•&nbsp; Sanitize all bathrooms -&nbsp;<span style=\"-webkit-text-size-adjust: 100%;\">change bath rugs if necessary according to last date changed</span></p><p>•&nbsp; Sweep and mop all floors</p><p>•&nbsp; vacuum carpeted areas/rugs</p><p>•&nbsp; Make all beds</p><p>•&nbsp; Empty garbage cans and replace liners</p><p>•&nbsp; Light horizontal surface dusting</p><p>•&nbsp; Changing of bed linens</p><p>•&nbsp; Master and Mia’s room linens are in the hallways closet next to the laundry basket. Master bedding is first two shelves of bedding, shelf below is Mias</p><p>•&nbsp; Itay - room next to master, bedding is in closet inside the room, top left corner, comforter change located beneath the bed in storage box/bag</p><p>•&nbsp; Jonathan - downstairs room, bedding inside wardrobe on the very left side</p>",
-        "team": "Tish/ Malien",
+        "team": "Tish/Malien",
         "id": 13730409
       }
     ],
-    "1523a2437ebccda93868844c83fa90a7": [
+    "nick": [
       {
         "day": "Mon",
         "dayNum": 1,
@@ -349,12 +349,27 @@
         "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
         "phone": "206-639-0646",
         "package": "Premium Weekly",
-        "time": "<b>2026-06-01 09:00AM - 11:30AM PDT</b>",
+        "time": "<b>2026-06-01 09:45AM - 12:15PM PDT</b>",
         "price": "313.60",
         "payment": "None",
         "notes": "",
-        "team": "Nick/ Malien",
+        "team": "Nick/Malien",
         "id": 13523267
+      },
+      {
+        "day": "Mon",
+        "dayNum": 1,
+        "date": "2026-06-01",
+        "customer": "Victoria Liu",
+        "address": "10700 Northeast 4th Street2002\n                                  Bellevue, WA 98004",
+        "phone": "425-770-1316",
+        "package": "Touch-Up Biweekly",
+        "time": "<b>2026-06-01 08:00AM - 09:30AM PDT</b>",
+        "price": "194.00",
+        "payment": "None",
+        "notes": " | <p>Client only wants female cleaners</p><p>There’s only one visitor parking she will provide, will need to meet nearby to carpool or carpool from the office. To find parking: You will need to call Victoria once you get there:&nbsp;(425) 770-1316. She will drive her car down to meet you, and then you can follow her car to the garage.&nbsp;</p><p>The client will have to leave for work and would like us to finish the cleaning before she leaves.</p>",
+        "team": "Nick/Tish",
+        "id": 13823566
       },
       {
         "day": "Mon",
@@ -368,7 +383,7 @@
         "price": "217.84",
         "payment": "None",
         "notes": " | <p>Front Entrance&nbsp;<span style=\"background-color: rgb(38, 38, 38); color: rgb(245, 245, 245); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; white-space-collapse: preserve;\">Buzzer code 018</span></p>",
-        "team": "Nick/ Malien",
+        "team": "Nick/Malien",
         "id": 13514289
       },
       {
@@ -432,7 +447,7 @@
         "id": 13566220
       }
     ],
-    "05ccfc712a6b9627811c226e2baedb5a": [
+    "andrew": [
       {
         "day": "Thu",
         "dayNum": 4,
@@ -451,11 +466,11 @@
     ]
   },
   "names": {
-    "bbfc51bf60a569ab885cae1290fb1242": "Megan",
-    "e705900fc05d2fe483da8909f261fd7f": "Loreina",
-    "4dc605dead85ac73fa7de9e77571543e": "Malien",
-    "6aac2a2c1c3ba6fbfec90ff84eb70be4": "Tish",
-    "1523a2437ebccda93868844c83fa90a7": "Nick",
-    "05ccfc712a6b9627811c226e2baedb5a": "Andrew"
+    "megan": "Megan",
+    "loreina": "Loreina",
+    "malien": "Malien",
+    "tish": "Tish",
+    "nick": "Nick",
+    "andrew": "Andrew"
   }
 }
