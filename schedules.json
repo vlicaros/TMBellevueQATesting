@@ -1,6 +1,6 @@
 {
   "week": "May 31 – Jun 6, 2026",
-  "updated": "Sun, May 31, 1:11 PM",
+  "updated": "Sun, May 31, 5:22 PM",
   "cleaners": {
     "megan": [
       {
@@ -195,7 +195,7 @@
         "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
         "phone": "206-639-0646",
         "package": "Premium Weekly",
-        "time": "<b>2026-06-01 09:45AM - 12:15PM PDT</b>",
+        "time": "<b>2026-06-01 10:00AM - 12:30PM PDT</b>",
         "price": "313.60",
         "payment": "None",
         "notes": "",
@@ -210,7 +210,7 @@
         "address": "300 110th Avenue NortheastUnit 513\n                                  Bellevue, WA 98004",
         "phone": "425-647-5783",
         "package": "Premium Monthly",
-        "time": "<b>2026-06-01 12:30PM - 01:30PM PDT</b>",
+        "time": "<b>2026-06-01 01:00PM - 02:00PM PDT</b>",
         "price": "217.84",
         "payment": "None",
         "notes": " | <p>Front Entrance&nbsp;<span style=\"background-color: rgb(38, 38, 38); color: rgb(245, 245, 245); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; white-space-collapse: preserve;\">Buzzer code 018</span></p>",
@@ -349,7 +349,7 @@
         "address": "175 100th Avenue Northeast\n                                  Bellevue, WA 98004",
         "phone": "206-639-0646",
         "package": "Premium Weekly",
-        "time": "<b>2026-06-01 09:45AM - 12:15PM PDT</b>",
+        "time": "<b>2026-06-01 10:00AM - 12:30PM PDT</b>",
         "price": "313.60",
         "payment": "None",
         "notes": "",
@@ -379,27 +379,12 @@
         "address": "300 110th Avenue NortheastUnit 513\n                                  Bellevue, WA 98004",
         "phone": "425-647-5783",
         "package": "Premium Monthly",
-        "time": "<b>2026-06-01 12:30PM - 01:30PM PDT</b>",
+        "time": "<b>2026-06-01 01:00PM - 02:00PM PDT</b>",
         "price": "217.84",
         "payment": "None",
         "notes": " | <p>Front Entrance&nbsp;<span style=\"background-color: rgb(38, 38, 38); color: rgb(245, 245, 245); font-family: &quot;Segoe UI Historic&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 15px; white-space-collapse: preserve;\">Buzzer code 018</span></p>",
         "team": "Nick/Malien",
         "id": 13514289
-      },
-      {
-        "day": "Wed",
-        "dayNum": 3,
-        "date": "2026-06-03",
-        "customer": "Patrick Steichen",
-        "address": "1800 North 48th Street\n                                  Seattle, WA 98103",
-        "phone": "918-906-3644",
-        "package": "Premium Monthly",
-        "time": "<b>2026-06-03 12:00PM - 01:00PM PDT</b>",
-        "price": "186.00",
-        "payment": "None",
-        "notes": " | <p>The previous name was <b>Frassati</b></p><p>Kitchen, dining room, living room and bathroom on main floor only.&nbsp;</p><p>Catholic mens house looking to get help with these areas only. Back door will be unlocked. Please have cleaning between 10am-3pm</p><p>Payment: check will be on black cabinet next to the dining table</p>",
-        "team": "Nick",
-        "id": 13926899
       },
       {
         "day": "Thu",
@@ -464,13 +449,5 @@
         "id": 13514116
       }
     ]
-  },
-  "names": {
-    "megan": "Megan",
-    "loreina": "Loreina",
-    "malien": "Malien",
-    "tish": "Tish",
-    "nick": "Nick",
-    "andrew": "Andrew"
   }
 }
